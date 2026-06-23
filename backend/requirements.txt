@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langgraph
+langgraph-checkpoint-postgres
+langchain
+sqlalchemy
+psycopg[binary]
+redis
+rq
+sse-starlette
+slowapi
+structlog
+langsmith
+pydantic

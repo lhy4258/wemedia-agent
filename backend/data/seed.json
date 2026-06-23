@@ -1,0 +1,18 @@
+{
+  "external_sources": [
+    {
+      "id": "mock-hot",
+      "name": "Mock Trend Board",
+      "type": "mock",
+      "base_url": "https://example.com/trends",
+      "auth_mode": "public"
+    },
+    {
+      "id": "mock-auth",
+      "name": "Authorized Demo Source",
+      "type": "mock",
+      "base_url": "https://example.com/me",
+      "auth_mode": "user_authorized"
+    }
+  ]
+}
