@@ -4,7 +4,7 @@
 
 项目不是简单的聊天式写稿工具，而是一个围绕内容运营岗位设计的多 Agent 工作流 MVP：热点信号先进候选池，选题经过人工确认后再进入写作和生图，最终内容包通过终审后才允许同步到微信公众号草稿箱或提交发布。
 
-详细实现说明见 [docs/technical_guide.md](docs/technical_guide.md)。
+详细实现说明见 [技术文档](docs/technical_guide.md)。
 
 ## 核心亮点
 
