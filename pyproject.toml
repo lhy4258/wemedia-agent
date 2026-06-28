@@ -1,0 +1,9 @@
+[project]
+name = "wemedia-agent"
+version = "0.1.0"
+description = "Self-media operations agent workspace with a FastAPI backend and Vue frontend."
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv.workspace]
+members = ["backend"]
